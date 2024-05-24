@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography>
+    <entry>
+        <type>book</type>
+        <title>изучаем Python: программирование игр, визуализация данных, веб-приложения</title>
+        <author1>
+            <firstName>эдгар</firstName>
+            <middleName></middleName>
+            <lastName>мэтиз</lastName>
+        </author1>
+        <year>2017</year>
+        <edition>1</edition>
+        <city>СПб</city>
+        <publisher>Питер</publisher>
+        <isbn>ISBN 978-5-496-03153-3</isbn>
+        <pages>496</pages>
+        <genre>учеб. пособие</genre>
+    </entry>
+    <entry>
+        <type>book</type>
+        <title>Программирование на Python в примерах и задачах</title>
+        <author1>
+            <firstName>А.</firstName>
+            <middleName>Н.</middleName>
+            <lastName>васильев</lastName>
+        </author1>
+        <year>2021</year>
+        <edition>1</edition>
+        <city>Москва</city>
+        <publisher>Эксмо</publisher>
+        <isbn>ISBN 978-5-04-115917-8</isbn>
+        <pages>616</pages>
+        <genre>учеб. пособие</genre>
+    </entry>
+    <entry>
+        <type>article</type>
+        <title>Новая роль фондового рынка в России</title>
+        <author1>
+            <firstName>Юрий</firstName>
+            <middleName></middleName>
+            <lastName>данилов</lastName>
+        </author1>
+        <year>2003</year>
+        <journal>Вопросы экономики</journal>
+        <issue>7</issue>
+        <pages>44-56</pages>
+    </entry>
+    <entry>
+        <type>book</type>
+        <title>Простой Python. Современный стиль программирования.</title>
+        <author1>
+            <firstName>Бобин</firstName>
+            <middleName></middleName>
+            <lastName>Любанович</lastName>
+        </author1>
+        <year>2021</year>
+        <edition>2</edition>
+        <city>СПб</city>
+        <publisher>Питер</publisher>
+        <isbn>ISBN 978-5-496-03163-2</isbn>
+        <pages>529</pages>
+        <genre>учеб. пособие</genre>
+    </entry>
+    <entry>
+        <type>article</type>
+        <title>Приоритеты развития регионального потребительского рынка</title>
+        <author1>
+            <firstName>Тамара</firstName>
+            <middleName></middleName>
+            <lastName>Черниченко</lastName>
+        </author1>
+        <author2>
+            <firstName>Леонид</firstName>
+            <middleName></middleName>
+            <lastName>Чирков</lastName>
+        </author2>
+        <year>2003</year>
+        <journal>Маркетинг</journal>
+        <issue>2</issue>
+        <pages>35-45</pages>
+    </entry>
+    <entry>
+        <type>book</type>
+        <title>Справочник PYTHON. Кратко, быстро, под рукой</title>
+        <author1>
+            <firstName>Дмитрий</firstName>
+            <middleName>Михайлович</middleName>
+            <lastName>Кольцов</lastName>
+        </author1>
+        <author2>
+            <firstName>Елизавета</firstName>
+            <middleName>Викторовна</middleName>
+            <lastName>Дубовик</lastName>
+        </author2>
+        <year>2021</year>
+        <edition>1</edition>
+        <city>СПб</city>
+        <publisher>Наука и Техника</publisher>
+        <isbn>ISBN 978-5-6040729-3-9</isbn>
+        <pages>288</pages>
+        <genre>учеб. пособие</genre>
+    </entry>
+    <entry>
+        <type>article</type>
+        <title>Финансовый рынок и политика денежных властей</title>
+        <author1>
+            <firstName>Екатерина</firstName>
+            <middleName></middleName>
+            <lastName>Чекмарева</lastName>
+        </author1>
+        <year>2003</year>
+        <journal>Деньги и кредит</journal>
+        <issue>7</issue>
+        <pages>42-46</pages>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>altmanea</title>
+        <siteTitle>Курс ООП, 2 часть, 2024</siteTitle>
+        <link>https://altmanea.ru/courser/oop_data_1.html#/2</link>
+        <accessDate>10.04.2024</accessDate>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>GitHub</title>
+        <siteTitle>Mongodb - GitHub</siteTitle>
+        <link>https://github.com</link>
+        <accessDate>02.05.2024</accessDate>
+    </entry>
+    <entry>
+        <type>conference paper</type>
+        <author1>
+            <firstName>Александр</firstName>
+            <middleName>Сергеевич</middleName>
+            <lastName>Пантелеев</lastName>
+        </author1>
+        <title>О мероприятиях по борьбе с безграмотностью</title>
+        <proceedingsTitle>История и философия науки</proceedingsTitle>
+        <proceedingsInformation>сборник материалов I Международной научно-практической конференции, г. Новосибирск, 21 ноября 2017</proceedingsInformation>
+        <city>Саратов</city>
+        <year>2018</year>
+        <pages>30-35</pages>
+    </entry>
+</bibliography>

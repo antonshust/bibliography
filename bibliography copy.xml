@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography>
+    <entry>
+        <type>internet resource</type>
+        <title>altmanea</title>
+        <siteTitle>Курс ООП, 2 часть, 2024</siteTitle>
+        <link>https://altmanea.ru/courser/oop_data_1.html#/2</link>
+        <accessDate>10.04.2024</accessDate>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>Википедия</title>
+        <siteTitle>XPath – Википедия</siteTitle>
+        <link>https://ru.wikipedia.org/wiki/XPath</link>
+        <accessDate>03.05.2024</accessDate>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>msiter</title>
+        <siteTitle>XML и XPath</siteTitle>
+        <link>https://msiter.ru/tutorials/uchebnik-xml-dlya-nachinayushchih/xml-i-xpath</link>
+        <accessDate>03.05.2024</accessDate>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>newbibliography</title>
+        <siteTitle>Составить библиографическую ссылку на материалы конференции</siteTitle>
+        <link>http://newbibliography.ru/ssylka-na-materialy-konferencii</link>
+        <accessDate>04.05.2024</accessDate>
+    </entry>
+    <entry>
+        <type>internet resource</type>
+        <title>bibl.ulspu</title>
+        <siteTitle>primery_bibl_111.pdf</siteTitle>
+        <link>https://bibl.ulspu.ru/files/2019/12/primery_bibl_111.pdf</link>
+        <accessDate>04.05.2024</accessDate>
+    </entry>
+</bibliography>
